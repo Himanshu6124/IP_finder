@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386933099451",
+    "project_id": "ip-detector-99f52",
+    "storage_bucket": "ip-detector-99f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386933099451:android:63dd43bbe039f09043129e",
+        "android_client_info": {
+          "package_name": "com.himanshu.ipfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386933099451-34u19amo62kntpsfvmilqq7smjeb6ba6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-1G41FVox6PAkJY6BP2IIAvQ8MUYrnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386933099451-34u19amo62kntpsfvmilqq7smjeb6ba6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
